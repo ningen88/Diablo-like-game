@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &112068
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 413848}
+  - component: {fileID: 9556666}
+  m_Layer: 0
+  m_Name: Cowboy
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &413848
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112068}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &9556666
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112068}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: ad52d12ad7e12c644a18f176d31a93bb, type: 3}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: '
+
+    Transform ''L Foot'' has been deleted
+
+    Transform ''L
+    Calf'' has been deleted
+
+    Transform ''L Thigh'' has been deleted
+
+    Transform
+    ''R Foot'' has been deleted
+
+    Transform ''R Calf'' has been deleted
+
+    Transform
+    ''R Thigh'' has been deleted
+
+    Transform ''L Finger02'' has been deleted
+
+    Transform
+    ''L Finger01'' has been deleted
+
+    Transform ''L Finger0'' has been deleted
+
+    Transform
+    ''L Finger12'' has been deleted
+
+    Transform ''L Finger11'' has been deleted
+
+    Transform
+    ''L Finger1'' has been deleted
+
+    Transform ''L Finger22'' has been deleted
+
+    Transform
+    ''L Finger21'' has been deleted
+
+    Transform ''L Finger2'' has been deleted
+
+    Transform
+    ''L Finger32'' has been deleted
+
+    Transform ''L Finger31'' has been deleted
+
+    Transform
+    ''L Finger3'' has been deleted
+
+    Transform ''L Finger42'' has been deleted
+
+    Transform
+    ''L Finger41'' has been deleted
+
+    Transform ''L Finger4'' has been deleted
+
+    Transform
+    ''L Hand'' has been deleted
+
+    Transform ''L Forearm'' has been deleted
+
+    Transform
+    ''L UpperArm'' has been deleted
+
+    Transform ''L Clavicle'' has been deleted
+
+    Transform
+    ''Head'' has been deleted
+
+    Transform ''Neck'' has been deleted
+
+    Transform
+    ''R Finger02'' has been deleted
+
+    Transform ''R Finger01'' has been deleted
+
+    Transform
+    ''R Finger0'' has been deleted
+
+    Transform ''R Finger12'' has been deleted
+
+    Transform
+    ''R Finger11'' has been deleted
+
+    Transform ''R Finger1'' has been deleted
+
+    Transform
+    ''R Finger22'' has been deleted
+
+    Transform ''R Finger21'' has been deleted
+
+    Transform
+    ''R Finger2'' has been deleted
+
+    Transform ''R Finger32'' has been deleted
+
+    Transform
+    ''R Finger31'' has been deleted
+
+    Transform ''R Finger3'' has been deleted
+
+    Transform
+    ''R Finger42'' has been deleted
+
+    Transform ''R Finger41'' has been deleted
+
+    Transform
+    ''R Finger4'' has been deleted
+
+    Transform ''R Hand'' has been deleted
+
+    Transform
+    ''R Forearm'' has been deleted
+
+    Transform ''R UpperArm'' has been deleted
+
+    Transform
+    ''R Clavicle'' has been deleted
+
+    Transform ''Spine1'' has been deleted
+
+    Transform
+    ''Spine'' has been deleted
+
+    Transform ''Pelvis'' has been deleted
+
+    Transform
+    ''CG'' has been deleted'
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
